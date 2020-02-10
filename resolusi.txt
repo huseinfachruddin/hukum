@@ -2,3 +2,4 @@ husein relusi
 -Konsisten membuat project
 -Menanbah library untuh gudang portofolio saya
 -belajar git&github
+-bisnis
