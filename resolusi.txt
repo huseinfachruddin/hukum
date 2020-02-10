@@ -1,3 +1,4 @@
 husein relusi
--konsisten membuat project
--menanbah library untuh gudang portofolio saya
+-Konsisten membuat project
+-Menanbah library untuh gudang portofolio saya
+-belajar git&github
